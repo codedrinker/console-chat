@@ -1,0 +1,16 @@
+<idea-plugin>
+    <id>com.github.console-chat</id>
+    <name>Console Chat</name>
+    <version>1.0</version>
+    <vendor email="small_artisan@126.com" url="console-chat.github.com">Console Chat</vendor>
+
+    <description><![CDATA[Sample Console Chat for Idea. You can just install.<br>]]></description>
+
+    <idea-version since-build="173.0"/>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <toolWindow id="Console Chat" anchor="bottom" factoryClass="ChatWindowFactory" icon="/img/chat.png"/>
+        <themeProvider id="fdf50afe-8733-495b-a0dd-9cb1f4f151c1" path="/as.theme.json"/>
+    </extensions>
+    <actions></actions>
+</idea-plugin>
