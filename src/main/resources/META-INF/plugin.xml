@@ -1,7 +1,7 @@
 <idea-plugin>
     <id>https://github.com/codedrinker/console-chat</id>
     <name>Console Chat</name>
-    <version>1.0</version>
+    <version>1.1</version>
     <vendor email="small_artisan@126.com" url="https://github.com/codedrinker/console-chat">Console Chat</vendor>
     <description><![CDATA[Simple Console Chat inner Idea without installing.<br>You can set unique chat id and nick to start chat. <br>chatId:019273816. <br>nick:Tom.<br>Also you can using server:http://yourdomain.com/chat to update your server. <br> More information visit https://sourl.cn/9bUutT]]></description>
     <idea-version since-build="173.0"/>

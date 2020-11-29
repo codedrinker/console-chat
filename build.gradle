@@ -9,8 +9,8 @@ plugins {
     id 'org.jetbrains.intellij' version '0.4.20'
 }
 
-group 'org.example'
-version '1.0'
+group 'com.github.console-chat'
+version '1.1'
 
 repositories {
     maven { url 'http://maven.aliyun.com/nexus/content/groups/public/' }
