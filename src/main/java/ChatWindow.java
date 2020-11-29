@@ -135,7 +135,7 @@ public class ChatWindow {
         scroll.setVerticalScrollBarPolicy(JScrollPane.VERTICAL_SCROLLBAR_ALWAYS);
         contentJPanel.add(scroll);
         contentJPanel.add(inputArea);
-        show(chatArea, "System", "Please set unique chat id and nick as following.\nchatId:019273816\nnick:Tom\nAlso you can using server:http://yourdomain.com/chat to update your server.\n");
+        show(chatArea, "System", "Please set unique chat id and nick as following.\nchatId:019273816\nnick:Tom\nAlso you can using server:http://yourdomain.com/chat to update your server.\nMore information visit https://sourl.cn/9bUutT \n");
     }
 
     public JPanel getContent() {
